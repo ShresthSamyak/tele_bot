@@ -20,7 +20,7 @@ A Telegram bot that scans popular hackathon listing platforms like Devfolio, Uns
 
 ## Setup & Installation
 1. Clone the repository:
-git clone https://github.com/yourusername/hackathon-tele-bot.git
+git clone https://github.com/ShresthSamyak/tele_bot
 cd hackathon-tele-bot
 
 text
