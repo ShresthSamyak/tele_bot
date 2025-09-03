@@ -20,8 +20,9 @@ A Telegram bot that scans popular hackathon listing platforms like Devfolio, Uns
 
 ## Setup & Installation
 1. Clone the repository:
-`git clone https://github.com/ShresthSamyak/tele_bot`
-
+```
+git clone https://github.com/ShresthSamyak/tele_bot
+```
 
 text
 
@@ -35,14 +36,18 @@ pip install schedule
 
 
 3. Create a `.env` file with your credentials:
-`TELEGRAM_BOT_TOKEN=your_telegram_bot_token_here
+```
+TELEGRAM_BOT_TOKEN=your_telegram_bot_token_here
 TELEGRAM_CHAT_ID=your_telegram_chat_id_here
-GROQ_API_KEY=your_groq_api_key_here`
+GROQ_API_KEY=your_groq_api_key_here
+```
 
 text
 
 4. Run the bot:
-`python bot.py`
+```
+python bot.py
+```
 
 text
 
