@@ -26,7 +26,7 @@ A Telegram bot that scans popular hackathon listing platforms like Devfolio, Uns
 text
 
 2. Install dependencies:
-`pip install requests\n
+`pip install requests<br>
 pip install beautifulsoup4
 pip install python-dotenv
 pip install schedule`
