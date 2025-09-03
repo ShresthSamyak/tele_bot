@@ -26,12 +26,13 @@ A Telegram bot that scans popular hackathon listing platforms like Devfolio, Uns
 text
 
 2. Install dependencies:
-`pip install requests<br>
+```
+pip install requests
 pip install beautifulsoup4
 pip install python-dotenv
-pip install schedule`
+pip install schedule
+```
 
-text
 
 3. Create a `.env` file with your credentials:
 `TELEGRAM_BOT_TOKEN=your_telegram_bot_token_here
