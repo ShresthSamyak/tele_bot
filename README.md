@@ -26,7 +26,10 @@ git clone https://github.com/ShresthSamyak/tele_bot
 text
 
 2. Install dependencies:
-pip install -r requirements.txt
+pip install requests
+pip install beautifulsoup4
+pip install python-dotenv
+pip install schedule
 
 text
 
